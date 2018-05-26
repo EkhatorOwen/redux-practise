@@ -1,0 +1,1 @@
+DELETE FROM Houser where id=$1;
